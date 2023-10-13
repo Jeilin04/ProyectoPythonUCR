@@ -12,4 +12,4 @@ authors = [
 readme = "Readme.md"
 requires-python = ">=3.10"
 [project.urls]
-"Homepage" = "https://github.com/Jeilin04/ProyectoPython2"
+"Homepage" = "https://github.com/Jeilin04/ProyectoPythonUCR.git"
