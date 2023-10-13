@@ -1,0 +1,6 @@
+env/
+*/__pycache__/
+docs/build/*
+dist/
+src/ImgGrayMailJCWUCR.egg-info
+src/ImgGrayMailJCWUCR/__pycache__/
