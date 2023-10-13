@@ -66,7 +66,7 @@ Referencias
 ***********
 
 Ruta repositorio Python:
-<https://github.com/Jeilin04/ProyectoPython2>
+<https://github.com/Jeilin04/ProyectoPythonUCR.git>
 
 
 .. toctree::
